@@ -11,4 +11,8 @@ public class HelloDulidu {
 
         return this.hello;
     }
+
+    public String getCoolFeature() {
+        return this.coolFeature;
+    }
 }
