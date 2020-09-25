@@ -15,4 +15,8 @@ public class HelloDulidu {
     public String getCoolFeature() {
         return this.coolFeature;
     }
+
+    public void setCoolFeature(String cool) {
+        this.coolFeature = cool;
+    }
 }
