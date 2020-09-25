@@ -1,8 +1,13 @@
-public class HelloDolidu {
+public class HelloDulidu {
 
     private String hello = "Hello Guguseli";
+    private String coolFeature = "My cool feature";
 
-    public int getHello() {
+    public HelloDulidu() {
+        coolFeature = "cool";
+    }
+
+    public String getHello() {
 
         return this.hello;
     }
