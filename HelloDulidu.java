@@ -1,4 +1,9 @@
 public class HelloDolidu {
 
-    private int hello;
+    private String hello = "Hello Guguseli";
+
+    public int getHello() {
+
+        return this.hello;
+    }
 }
