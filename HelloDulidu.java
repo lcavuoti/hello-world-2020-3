@@ -20,4 +20,8 @@ public class HelloDulidu {
     public void setCoolFeature(String cool) {
         this.coolFeature = cool;
     }
+
+    public String getCoolFeature4() {
+        return coolFeature4;
+    }
 }
