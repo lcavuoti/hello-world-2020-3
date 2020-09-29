@@ -2,6 +2,7 @@ public class HelloDulidu {
 
     private String hello = "Hello Guguseli";
     private String coolFeature = "My cool feature";
+    private String coolFeature4 = "my feature 4";
 
     public HelloDulidu() {
         coolFeature = "cool";
