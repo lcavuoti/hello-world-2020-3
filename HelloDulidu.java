@@ -24,4 +24,8 @@ public class HelloDulidu {
     public String getCoolFeature4() {
         return coolFeature4;
     }
+
+    public void setCoolFeature4(String coolFeature4) {
+        this.coolFeature4 = coolFeature4;
+    }
 }
