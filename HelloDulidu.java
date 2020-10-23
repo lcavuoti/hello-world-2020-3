@@ -19,4 +19,11 @@ public class HelloDulidu {
     public void setCoolFeature(String cool) {
         this.coolFeature = cool;
     }
+
+    public static void main(Strin[] args) {
+        // test object instanciating
+        HelloDulidu hd = new HelloDulidu();
+
+        System.out.println("hello hot fix " + hd.getCoolFeature());
+    }
 }
