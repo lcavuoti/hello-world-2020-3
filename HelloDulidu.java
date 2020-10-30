@@ -1,5 +1,6 @@
 public class HelloDulidu {
 
+    private int counter;
     private String hello = "Hello Guguseli";
     private String coolFeature = "My cool feature";
     private String text = "FeatureA";
@@ -21,4 +22,5 @@ public class HelloDulidu {
     public String getCoolFeature() {
         return this.coolFeature;
     }
+
 }
