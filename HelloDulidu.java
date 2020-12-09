@@ -1,5 +1,6 @@
 public class HelloDulidu {
 
+    private int counter;
     private String hello = "Hello Guguseli";
     private String coolFeature = "My cool feature";
 <<<<<<< HEAD
@@ -27,6 +28,7 @@ public class HelloDulidu {
         return this.coolFeature;
     }
 
+<<<<<<< HEAD
     public void setCoolFeature(String cool) {
         this.coolFeature = cool;
     }
@@ -38,4 +40,6 @@ public class HelloDulidu {
     public void setCoolFeature4(String coolFeature4) {
         this.coolFeature4 = coolFeature4;
     }
+=======
+>>>>>>> cool-feauture-6
 }
